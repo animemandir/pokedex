@@ -1,0 +1,18 @@
+{
+  "main.css": "/pokedex/static/css/main.48dda17c.chunk.css",
+  "main.js": "/pokedex/static/js/main.286f292c.chunk.js",
+  "main.js.map": "/pokedex/static/js/main.286f292c.chunk.js.map",
+  "runtime~main.js": "/pokedex/static/js/runtime~main.fa119ff4.js",
+  "runtime~main.js.map": "/pokedex/static/js/runtime~main.fa119ff4.js.map",
+  "static/css/2.4725dfe9.chunk.css": "/pokedex/static/css/2.4725dfe9.chunk.css",
+  "static/js/2.f21c4f54.chunk.js": "/pokedex/static/js/2.f21c4f54.chunk.js",
+  "static/js/2.f21c4f54.chunk.js.map": "/pokedex/static/js/2.f21c4f54.chunk.js.map",
+  "index.html": "/pokedex/index.html",
+  "precache-manifest.0d599c34fd3ae1fcf3275ee7dc2618c2.js": "/pokedex/precache-manifest.0d599c34fd3ae1fcf3275ee7dc2618c2.js",
+  "service-worker.js": "/pokedex/service-worker.js",
+  "static/css/2.4725dfe9.chunk.css.map": "/pokedex/static/css/2.4725dfe9.chunk.css.map",
+  "static/css/main.48dda17c.chunk.css.map": "/pokedex/static/css/main.48dda17c.chunk.css.map",
+  "static/media/index.css": "/pokedex/static/media/BarcadeBrawl.95a3fbc4.ttf",
+  "static/media/InfoDialog.css": "/pokedex/static/media/bg.edf5c25f.png",
+  "static/media/pokedex.png": "/pokedex/static/media/pokedex.1783cfb6.png"
+}
