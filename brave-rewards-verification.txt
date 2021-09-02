@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: anime-mandir.blogspot.com
+Token: 1582325f2dccef356781b89b8dc584e429ffc82109bb1f003ffa77ea77ce8d45
